@@ -1,4 +1,4 @@
-.DS_Store
+﻿.DS_Store
 Thumbs.db
 *.log
 __pycache__/
@@ -7,6 +7,5 @@ __pycache__/
 # Victoria repo: NSW is live and tracked elsewhere, keep it out of this history
 trophies/new-south-wales/
 assets/img/products/nsw/
-data/nsw/
 docs/nsw/
 sitemaps/sitemap-local.xml
