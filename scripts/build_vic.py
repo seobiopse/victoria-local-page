@@ -585,7 +585,7 @@ def state_page():
 </div></section>
 
 <div style="background:#fff;padding:22px 0;border-top:1px solid var(--border);font-size:14.5px"><div class="wrap">
-  Browse: <a href="melbourne/" %(link)s>Melbourne</a> &nbsp;|&nbsp; <a href="../new-south-wales/" %(link)s>New South Wales</a> &nbsp;|&nbsp; <span style="color:var(--text-subtle)">SA page coming soon</span>
+  Browse: <a href="melbourne/" %(link)s>Melbourne</a> &nbsp;|&nbsp; <a href="../new-south-wales/" %(link)s>New South Wales</a> &nbsp;|&nbsp; <a href="../south-australia/" %(link)s>South Australia</a>
 </div></div>
 
 ''' % {'crumbs': B.crumbs([('Trophies', SITE + '/products/trophies'), ('Victoria', None)]), 'guar': HERO_GUARANTEES,
