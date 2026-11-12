@@ -9,3 +9,7 @@ trophies/new-south-wales/
 assets/img/products/nsw/
 docs/nsw/
 sitemaps/sitemap-local.xml
+
+# raw customer logo originals stay local; processed 512px assets are tracked
+data/customers/logos-raw/*
+!data/customers/logos-raw/.gitkeep
